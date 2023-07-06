@@ -1,12 +1,21 @@
 {
   "expo": {
-    "name": "blank",
-    "slug": "blank",
+    "name": "Uber-Eats",
+    "slug": "Uber-Eats",
     "version": "1.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ]
+    "platforms": ["ios", "android", "web"],
+    "icon": "./assets/icons/appIcon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b5fbd5fd-e690-42ed-b775-f294ee6ced75"
+      }
+    },
+    "android": {
+      "package": "com.basma.abdelaziz.UberEats"
+    }
   }
 }
