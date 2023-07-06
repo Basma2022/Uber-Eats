@@ -1,4 +1,65 @@
-# My Universal React Project
+ Uber-Eats
+<h1>Uber Eats Clone </h1>
+<h3>This project is a practice app created using React Native. It simulates some of the key features found in popular food delivery applications like Uber Eats. The app allows users to browse restaurants, view restaurant details, add items to a cart, and proceed to checkout. </h3>
+
+
+<h2>Features</h2>
+<h3>
+-Restaurant Filtering: Users can filter restaurants based on the city to find local dining options easily.
+ 
+-Restaurant Details: Each restaurant has a detailed page with information such as menu items, ratings, and reviews.
+
+-Cart Functionality: Users can add items to their cart, view the cart contents, and remove items from cart.
+
+Checkout: The app provides a checkout page where users can review their order details and then the order is saved by Firebase.
+  </h3>
+
+  
+<h2>Technologies and APIs Used </h2>
+<h3>
+-React Native: A JavaScript framework for building mobile applications.
+ 
+-Redux: A state management library for managing application state.
+
+-Google API: Integrated for location-based services.
+
+-Yelp API: Integrated to retrieve restaurant information, menus, reviews, and ratings.
+
+-Firebase: Used for handling backend operations.
+
+-Hooks: React Hooks were utilized to simplify state management and side effects in functional components.
+  </h3>
+
+  
+<h2>Getting Started</h2>
+<h3>
+To get started with the app, follow these steps:
+-Clone the repository: git clone <repository-url>
+ 
+-Install the dependencies: npm install
+
+-Configure the necessary API keys: Update the config.js file with your Google API and Yelp API keys.
+
+-Run the app on your device or emulator: react-native run-android (for Android) or react-native run-ios (for iOS).
+  </h3>
+
+  
+<h2>Screenshots</h2>
+
+
+<img src="https://github.com/Basma2022/Uber-Eats/assets/109489506/1cb54356-63f7-4e37-9a76-435fcafdb4d1" height="400" />
+
+<img src="https://github.com/Basma2022/Uber-Eats/assets/109489506/abec1196-16e6-4458-b1bc-2076a5f8f2f9" height="400" />
+
+<img src="https://github.com/Basma2022/Uber-Eats/assets/109489506/733491c8-910d-46e2-b495-d17cf2063406" height="400" />
+
+
+<img src="https://github.com/Basma2022/Uber-Eats/assets/109489506/52c6d1bd-b567-4c13-ab00-6cbd60f1c302" height="400" />
+
+<img src="https://github.com/Basma2022/Uber-Eats/assets/109489506/e2f20e9a-3d9e-4011-b2c4-1dc35b9fe98c" height="400" />
+
+<img src="https://github.com/Basma2022/Uber-Eats/assets/109489506/24aa6e31-b32b-4c9a-85ff-51ad0cb49f42" height="400" />
+
 
 <p>
   <!-- iOS -->
