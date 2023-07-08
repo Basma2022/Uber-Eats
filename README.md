@@ -61,6 +61,8 @@ To get started with the app, follow these steps:
 <img src="https://github.com/Basma2022/Uber-Eats/assets/109489506/24aa6e31-b32b-4c9a-85ff-51ad0cb49f42" height="400" />
 
 
+<h2>Promo Link: https://www.linkedin.com/feed/update/urn:li:activity:7083490700008333312/</h2>
+
 <p>
   <!-- iOS -->
   <a href="https://itunes.apple.com/app/apple-store/id982107779">
